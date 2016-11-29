@@ -1,0 +1,32 @@
+PODS:
+  - ProcedureKit (4.0.0.beta.5):
+    - ProcedureKit/Standard (= 4.0.0.beta.5)
+  - ProcedureKit/Cloud (4.0.0.beta.5):
+    - ProcedureKit/Standard
+  - ProcedureKit/Mobile (4.0.0.beta.5):
+    - ProcedureKit/Standard
+  - ProcedureKit/Standard (4.0.0.beta.5)
+
+DEPENDENCIES:
+  - ProcedureKit (from `https://github.com/procedurekit/procedurekit`, commit `6b1e40e591ece572ca0cb6aa28e9e1c1aa1c7aa5`, branch `feature/OPR-622_memory_leaks`)
+  - ProcedureKit/Cloud (from `https://github.com/procedurekit/procedurekit`, commit `6b1e40e591ece572ca0cb6aa28e9e1c1aa1c7aa5`, branch `feature/OPR-622_memory_leaks`)
+  - ProcedureKit/Mobile (from `https://github.com/procedurekit/procedurekit`, commit `6b1e40e591ece572ca0cb6aa28e9e1c1aa1c7aa5`, branch `feature/OPR-622_memory_leaks`)
+
+EXTERNAL SOURCES:
+  ProcedureKit:
+    :branch: feature/OPR-622_memory_leaks
+    :commit: 6b1e40e591ece572ca0cb6aa28e9e1c1aa1c7aa5
+    :git: https://github.com/procedurekit/procedurekit
+
+CHECKOUT OPTIONS:
+  ProcedureKit:
+    :branch: feature/OPR-622_memory_leaks
+    :commit: 6b1e40e591ece572ca0cb6aa28e9e1c1aa1c7aa5
+    :git: https://github.com/procedurekit/procedurekit
+
+SPEC CHECKSUMS:
+  ProcedureKit: 2be31143063e96aabf728e3460568816e93984ff
+
+PODFILE CHECKSUM: d0dca9fbf99f49ad785537df495db5b00c8b88f6
+
+COCOAPODS: 1.0.1
